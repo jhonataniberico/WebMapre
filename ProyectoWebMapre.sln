@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Mi_Cuenta_VM", "..\..\..\..\..\..\inetpub\wwwroot\Mi_Cuenta_VM\", "{A1B23022-6A80-467A-AE5F-19651D43570B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/Mi_Cuenta_VM"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\Mi_Cuenta_VM\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Mi_Cuenta_VM\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Mi_Cuenta_VM"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\Mi_Cuenta_VM\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Mi_Cuenta_VM\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2698"
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CorredorMorado", "..\..\..\..\..\..\inetpub\wwwroot\CorredorMorado\", "{8670FCBF-49EC-4444-8B7B-831FB015BD76}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/CorredorMorado"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\CorredorMorado\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CorredorMorado\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CorredorMorado"
+		Release.AspNetCompiler.PhysicalPath = "..\..\..\..\..\..\inetpub\wwwroot\CorredorMorado\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CorredorMorado\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2040"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B23022-6A80-467A-AE5F-19651D43570B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B23022-6A80-467A-AE5F-19651D43570B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B23022-6A80-467A-AE5F-19651D43570B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B23022-6A80-467A-AE5F-19651D43570B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{8670FCBF-49EC-4444-8B7B-831FB015BD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8670FCBF-49EC-4444-8B7B-831FB015BD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8670FCBF-49EC-4444-8B7B-831FB015BD76}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{8670FCBF-49EC-4444-8B7B-831FB015BD76}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
